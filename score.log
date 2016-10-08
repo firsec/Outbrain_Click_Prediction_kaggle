@@ -1,0 +1,5 @@
+Optimization complete with best validation score of 7.140000 %,with test performance 8.200000 %   
+Optimization complete with best validation score of 7.060000 %,with test performance 8.700000 %
+Best validation score of 1.380000 % obtained at iteration 14256,with test performance 0.800000 %   predict_res_new.csv 
+Best validation score of 1.240000 % obtained at iteration 24480,with test performance 0.700000 %   predict_res_new_smallBatch.csv
+Best validation score of 1.540000 % obtained at iteration 8640,with test performance 1.000000 % predict_res_new_smallBatch_binary_image
